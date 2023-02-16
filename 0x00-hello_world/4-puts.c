@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main- Printing Programming is like building a multilingual puzzle
- * return: ends with 0
+ * main - print Programming is like building a multilingual puzzle
+ * Return: always 0
  */
 int main(void)
 {
